@@ -6,24 +6,21 @@
     <description>Recent content in Posts on 정효준의 블로그</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Jun 2025 22:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 14 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://hyojunjung.github.io/test/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test</title>
+      <title>First Post</title>
       <link>https://hyojunjung.github.io/test/posts/first-post/</link>
-      <pubDate>Sat, 14 Jun 2025 22:00:00 +0900</pubDate>
+      <pubDate>Sat, 14 Jun 2025 00:00:00 +0000</pubDate>
       <guid>https://hyojunjung.github.io/test/posts/first-post/</guid>
-      <description>&lt;h1 id=&#34;first-move&#34;&gt;First Move&lt;/h1&gt;
-&lt;p&gt;Let&amp;rsquo;s go&lt;/p&gt;
-&lt;p&gt;# Hello Hugo Blog!&lt;/p&gt;
-&lt;p&gt;이건 Typora로 작성한 나의 첫 번째 블로그 글입니다.&lt;/p&gt;</description>
+      <description>&lt;p&gt;이 글은 마음챙김에 관한 글입니다.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Test</title>
+      <title>Second Post</title>
       <link>https://hyojunjung.github.io/test/posts/second-post/</link>
-      <pubDate>Sat, 14 Jun 2025 22:00:00 +0900</pubDate>
+      <pubDate>Sat, 14 Jun 2025 00:00:00 +0000</pubDate>
       <guid>https://hyojunjung.github.io/test/posts/second-post/</guid>
-      <description>&lt;h1 id=&#34;오늘의-생각&#34;&gt;오늘의 생각&lt;/h1&gt;
+      <description>&lt;h1 id=&#34;이-글은-커피-루틴에-관한-글입니다&#34;&gt;이 글은 커피 루틴에 관한 글입니다.&lt;/h1&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;오늘은 &lt;strong&gt;Typora&lt;/strong&gt;를 사용해서 작업을 해보는 시간을 가져볼게요.&lt;/p&gt;
