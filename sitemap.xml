@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hyojunjung.github.io/test/</loc>
-    <lastmod>2025-06-14T22:00:00+09:00</lastmod>
-  </url><url>
     <loc>https://hyojunjung.github.io/test/posts/</loc>
     <lastmod>2025-06-14T22:00:00+09:00</lastmod>
   </url><url>
@@ -12,6 +9,9 @@
     <lastmod>2025-06-14T22:00:00+09:00</lastmod>
   </url><url>
     <loc>https://hyojunjung.github.io/test/posts/second-post/</loc>
+    <lastmod>2025-06-14T22:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://hyojunjung.github.io/test/</loc>
     <lastmod>2025-06-14T22:00:00+09:00</lastmod>
   </url><url>
     <loc>https://hyojunjung.github.io/test/categories/</loc>
