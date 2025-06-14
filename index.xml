@@ -23,10 +23,40 @@
       <link>https://hyojunjung.github.io/test/posts/second-post/</link>
       <pubDate>Sat, 14 Jun 2025 22:00:00 +0900</pubDate>
       <guid>https://hyojunjung.github.io/test/posts/second-post/</guid>
-      <description>&lt;h1 id=&#34;first-move-ㄴㄴㄴㄴ&#34;&gt;First Move ㄴㄴㄴㄴ&lt;/h1&gt;
-&lt;p&gt;Let&amp;rsquo;s go&lt;/p&gt;
-&lt;p&gt;# Hello Hugo Blog!&lt;/p&gt;
-&lt;p&gt;이건 Typora로 작성한 나의 첫 번째 블로그 글입니다.&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;오늘의-생각&#34;&gt;오늘의 생각&lt;/h1&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;오늘은 &lt;strong&gt;Typora&lt;/strong&gt;를 사용해서 작업을 해보는 시간을 가져볼게요.&lt;/p&gt;
+&lt;p&gt;기본적으로 &lt;strong&gt;Markdown&lt;/strong&gt; 라이팅 툴인게 특징입니다.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;why&#34;&gt;Why&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;🖱️ 마우스가 따로 필요 없습니다.&lt;/li&gt;
+&lt;li&gt;🚝 빠르게 작성 가능합니다.&lt;/li&gt;
+&lt;li&gt;🎬 발표 자료 만들기 쉽다.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;strategy&#34;&gt;Strategy&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;다양한 마크다운 문법을 활용해서 빠르고 간결하게 예쁘게 글을 써봅시다!&amp;rdquo; 😁&lt;/p&gt;&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;서브 프로젝트로 일단 시작을 해보고 박사 기간동안 MD를 마스터 해보자.&lt;/li&gt;
+&lt;li&gt;이걸로 강의 자료나 기본 자료를 만들면 좋을듯합니다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;감사합니다&#34;&gt;감사합니다!!&lt;/h3&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-mermaid&#34; data-lang=&#34;mermaid&#34;&gt;graph LR
+
+ A[Start] --&amp;gt; B{Decision}
+
+ B --&amp;gt;|Yes| C[Gain]
+
+ B --&amp;gt;|No| D[Loss]
+
+ C --&amp;gt; E[End]
+
+ D --&amp;gt; E
+&lt;/code&gt;&lt;/pre&gt;</description>
     </item>
   </channel>
 </rss>
