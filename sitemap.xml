@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/test/</loc>
+    <loc>https://hyojunjung.github.io/test/</loc>
     <lastmod>2025-06-14T22:00:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/test/posts/</loc>
+    <loc>https://hyojunjung.github.io/test/posts/</loc>
     <lastmod>2025-06-14T22:00:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/test/posts/first-post-copy/</loc>
+    <loc>https://hyojunjung.github.io/test/posts/first-post/</loc>
     <lastmod>2025-06-14T22:00:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/test/posts/first-post/</loc>
+    <loc>https://hyojunjung.github.io/test/posts/second-post/</loc>
     <lastmod>2025-06-14T22:00:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/test/categories/</loc>
+    <loc>https://hyojunjung.github.io/test/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/test/tags/</loc>
+    <loc>https://hyojunjung.github.io/test/tags/</loc>
   </url>
 </urlset>
