@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Hospitality on Hyojun Jung&#39;s Blog</title>
-    <link>http://localhost:1313/blog/tags/hospitality/</link>
+    <link>https://hyojunjung.github.io/blog/tags/hospitality/</link>
     <description>Recent content in Hospitality on Hyojun Jung&#39;s Blog</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 10 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/blog/tags/hospitality/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://hyojunjung.github.io/blog/tags/hospitality/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Technology in Hotel Operations</title>
-      <link>http://localhost:1313/blog/teaching/example/</link>
+      <link>https://hyojunjung.github.io/blog/teaching/example/</link>
       <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/teaching/example/</guid>
+      <guid>https://hyojunjung.github.io/blog/teaching/example/</guid>
       <description>&lt;p&gt;This undergraduate lecture introduces the role of &lt;strong&gt;Generative AI, automation, and digital tools&lt;/strong&gt; in hotel operations.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Topics covered:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;

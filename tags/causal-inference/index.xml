@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Causal Inference on Hyojun Jung&#39;s Blog</title>
-    <link>http://localhost:1313/blog/tags/causal-inference/</link>
+    <link>https://hyojunjung.github.io/blog/tags/causal-inference/</link>
     <description>Recent content in Causal Inference on Hyojun Jung&#39;s Blog</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 15 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/blog/tags/causal-inference/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://hyojunjung.github.io/blog/tags/causal-inference/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Causal Inference and Panel Data</title>
-      <link>http://localhost:1313/blog/research/notes/example/</link>
+      <link>https://hyojunjung.github.io/blog/research/notes/example/</link>
       <pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/research/notes/example/</guid>
+      <guid>https://hyojunjung.github.io/blog/research/notes/example/</guid>
       <description>&lt;p&gt;This note summarizes key methods in &lt;strong&gt;causal inference using panel data&lt;/strong&gt;, including:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Fixed Effects (FE) and Random Effects (RE)&lt;/li&gt;
@@ -22,13 +22,13 @@
 &lt;/ul&gt;
 &lt;blockquote&gt;
 &lt;p&gt;📖 Inspired by: Wooldridge (2010), Angrist &amp;amp; Pischke (2009)&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;📖 See &lt;a href=&#34;http://localhost:1313/blog/research/publications/&#34;&gt;related publication&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;📖 See &lt;a href=&#34;https://hyojunjung.github.io/blog/research/publications/&#34;&gt;related publication&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Panel Data: Advanced Concepts</title>
-      <link>http://localhost:1313/blog/research/notes/example2/</link>
+      <link>https://hyojunjung.github.io/blog/research/notes/example2/</link>
       <pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/research/notes/example2/</guid>
+      <guid>https://hyojunjung.github.io/blog/research/notes/example2/</guid>
       <description>&lt;p&gt;This note explores &lt;strong&gt;advanced topics in panel data econometrics&lt;/strong&gt;, especially when applying causal inference logic.&lt;/p&gt;
 &lt;h2 id=&#34;key-topics-covered&#34;&gt;Key Topics Covered:&lt;/h2&gt;
 &lt;ul&gt;
