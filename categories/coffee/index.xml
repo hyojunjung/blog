@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Coffee on 정효준의 블로그</title>
-    <link>https://hyojunjung.github.io/test/categories/coffee/</link>
-    <description>Recent content in Coffee on 정효준의 블로그</description>
+    <title>Coffee on Hyojun Jung</title>
+    <link>https://hyojunjung.github.io/blog/categories/coffee/</link>
+    <description>Recent content in Coffee on Hyojun Jung</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 14 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://hyojunjung.github.io/test/categories/coffee/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://hyojunjung.github.io/blog/categories/coffee/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Second Post</title>
-      <link>https://hyojunjung.github.io/test/posts/second-post/</link>
+      <link>https://hyojunjung.github.io/blog/posts/second-post/</link>
       <pubDate>Sat, 14 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://hyojunjung.github.io/test/posts/second-post/</guid>
+      <guid>https://hyojunjung.github.io/blog/posts/second-post/</guid>
       <description>&lt;h1 id=&#34;이-글은-커피-루틴에-관한-글입니다&#34;&gt;이 글은 커피 루틴에 관한 글입니다.&lt;/h1&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;

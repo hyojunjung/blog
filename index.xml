@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>정효준의 블로그</title>
-    <link>https://hyojunjung.github.io/test/</link>
-    <description>Recent content on 정효준의 블로그</description>
+    <title>Hyojun Jung</title>
+    <link>https://hyojunjung.github.io/blog/</link>
+    <description>Recent content on Hyojun Jung</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 14 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://hyojunjung.github.io/test/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://hyojunjung.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First Post</title>
-      <link>https://hyojunjung.github.io/test/posts/first-post/</link>
+      <link>https://hyojunjung.github.io/blog/posts/first-post/</link>
       <pubDate>Sat, 14 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://hyojunjung.github.io/test/posts/first-post/</guid>
+      <guid>https://hyojunjung.github.io/blog/posts/first-post/</guid>
       <description>&lt;p&gt;이 글은 마음챙김에 관한 글입니다.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Second Post</title>
-      <link>https://hyojunjung.github.io/test/posts/second-post/</link>
+      <link>https://hyojunjung.github.io/blog/posts/second-post/</link>
       <pubDate>Sat, 14 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://hyojunjung.github.io/test/posts/second-post/</guid>
+      <guid>https://hyojunjung.github.io/blog/posts/second-post/</guid>
       <description>&lt;h1 id=&#34;이-글은-커피-루틴에-관한-글입니다&#34;&gt;이 글은 커피 루틴에 관한 글입니다.&lt;/h1&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
@@ -57,12 +57,13 @@
     </item>
     <item>
       <title>소개</title>
-      <link>https://hyojunjung.github.io/test/about/</link>
+      <link>https://hyojunjung.github.io/blog/about/</link>
       <pubDate>Sat, 14 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://hyojunjung.github.io/test/about/</guid>
+      <guid>https://hyojunjung.github.io/blog/about/</guid>
       <description>&lt;p&gt;안녕하세요! 👋&lt;/p&gt;
 &lt;p&gt;이 블로그는 &lt;strong&gt;커피&lt;/strong&gt; &lt;strong&gt;마음챙김&lt;/strong&gt;, 그리고 &lt;strong&gt;감각 기록&lt;/strong&gt;에 관한 이야기를 담고 있습니다.&lt;/p&gt;
-&lt;p&gt;가볍고 따뜻한 인사이트를 나누고자 시작했습니다.&lt;/p&gt;</description>
+&lt;p&gt;가볍고 따뜻한 인사이트를 나누고자 시작했습니다.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://hyojunjung.github.io/blog/about/cover.jpeg&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

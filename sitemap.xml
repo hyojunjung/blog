@@ -2,43 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hyojunjung.github.io/test/categories/</loc>
+    <loc>https://hyojunjung.github.io/blog/categories/</loc>
     <lastmod>2025-06-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hyojunjung.github.io/test/categories/coffee/</loc>
+    <loc>https://hyojunjung.github.io/blog/categories/coffee/</loc>
     <lastmod>2025-06-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hyojunjung.github.io/test/posts/first-post/</loc>
+    <loc>https://hyojunjung.github.io/blog/posts/first-post/</loc>
     <lastmod>2025-06-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hyojunjung.github.io/test/tags/habit/</loc>
+    <loc>https://hyojunjung.github.io/blog/tags/habit/</loc>
     <lastmod>2025-06-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hyojunjung.github.io/test/tags/hugo/</loc>
+    <loc>https://hyojunjung.github.io/blog/tags/hugo/</loc>
     <lastmod>2025-06-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hyojunjung.github.io/test/categories/mindfulness/</loc>
+    <loc>https://hyojunjung.github.io/blog/</loc>
     <lastmod>2025-06-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hyojunjung.github.io/test/tags/morning/</loc>
+    <loc>https://hyojunjung.github.io/blog/categories/mindfulness/</loc>
     <lastmod>2025-06-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hyojunjung.github.io/test/posts/</loc>
+    <loc>https://hyojunjung.github.io/blog/tags/morning/</loc>
     <lastmod>2025-06-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hyojunjung.github.io/test/posts/second-post/</loc>
+    <loc>https://hyojunjung.github.io/blog/posts/</loc>
     <lastmod>2025-06-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hyojunjung.github.io/test/tags/</loc>
+    <loc>https://hyojunjung.github.io/blog/posts/second-post/</loc>
     <lastmod>2025-06-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hyojunjung.github.io/test/tags/typora/</loc>
+    <loc>https://hyojunjung.github.io/blog/tags/</loc>
     <lastmod>2025-06-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hyojunjung.github.io/test/about/</loc>
+    <loc>https://hyojunjung.github.io/blog/tags/typora/</loc>
     <lastmod>2025-06-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hyojunjung.github.io/test/</loc>
+    <loc>https://hyojunjung.github.io/blog/about/</loc>
     <lastmod>2025-06-14T00:00:00+00:00</lastmod>
   </url>
 </urlset>

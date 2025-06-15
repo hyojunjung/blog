@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on 정효준의 블로그</title>
-    <link>https://hyojunjung.github.io/test/tags/</link>
-    <description>Recent content in Tags on 정효준의 블로그</description>
+    <title>Tags on Hyojun Jung</title>
+    <link>https://hyojunjung.github.io/blog/tags/</link>
+    <description>Recent content in Tags on Hyojun Jung</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 14 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://hyojunjung.github.io/test/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://hyojunjung.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Habit</title>
-      <link>https://hyojunjung.github.io/test/tags/habit/</link>
+      <link>https://hyojunjung.github.io/blog/tags/habit/</link>
       <pubDate>Sat, 14 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://hyojunjung.github.io/test/tags/habit/</guid>
+      <guid>https://hyojunjung.github.io/blog/tags/habit/</guid>
       <description></description>
     </item>
     <item>
       <title>Hugo</title>
-      <link>https://hyojunjung.github.io/test/tags/hugo/</link>
+      <link>https://hyojunjung.github.io/blog/tags/hugo/</link>
       <pubDate>Sat, 14 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://hyojunjung.github.io/test/tags/hugo/</guid>
+      <guid>https://hyojunjung.github.io/blog/tags/hugo/</guid>
       <description></description>
     </item>
     <item>
       <title>Morning</title>
-      <link>https://hyojunjung.github.io/test/tags/morning/</link>
+      <link>https://hyojunjung.github.io/blog/tags/morning/</link>
       <pubDate>Sat, 14 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://hyojunjung.github.io/test/tags/morning/</guid>
+      <guid>https://hyojunjung.github.io/blog/tags/morning/</guid>
       <description></description>
     </item>
     <item>
       <title>Typora</title>
-      <link>https://hyojunjung.github.io/test/tags/typora/</link>
+      <link>https://hyojunjung.github.io/blog/tags/typora/</link>
       <pubDate>Sat, 14 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://hyojunjung.github.io/test/tags/typora/</guid>
+      <guid>https://hyojunjung.github.io/blog/tags/typora/</guid>
       <description></description>
     </item>
   </channel>
