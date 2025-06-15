@@ -2,49 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hyojunjung.github.io/blog/tags/habit/</loc>
+    <loc>https://hyojunjung.github.io/blog/about/</loc>
     <lastmod>2025-06-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hyojunjung.github.io/blog/tags/hugo/</loc>
-    <lastmod>2025-06-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://hyojunjung.github.io/blog/tags/morning/</loc>
-    <lastmod>2025-06-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://hyojunjung.github.io/blog/posts/</loc>
-    <lastmod>2025-06-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://hyojunjung.github.io/blog/posts/second-post/</loc>
-    <lastmod>2025-06-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://hyojunjung.github.io/blog/tags/</loc>
-    <lastmod>2025-06-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://hyojunjung.github.io/blog/posts/sensory-note-210848b69b95806db3dae13e323e0866/untitled-210848b69b958043b6acd19ccd1fb4a3/@friday-211848b69b958045bb7af4d71aa0ad63/</loc>
-    <lastmod>2025-06-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://hyojunjung.github.io/blog/tags/typora/</loc>
+    <loc>https://hyojunjung.github.io/blog/contact/</loc>
     <lastmod>2025-06-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hyojunjung.github.io/blog/</loc>
     <lastmod>2025-06-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hyojunjung.github.io/blog/about/</loc>
-    <lastmod>2025-06-14T00:00:00+00:00</lastmod>
+    <loc>https://hyojunjung.github.io/blog/research/projects/</loc>
   </url><url>
-    <loc>https://hyojunjung.github.io/blog/notes/</loc>
-    <lastmod>2025-06-13T00:00:00+00:00</lastmod>
+    <loc>https://hyojunjung.github.io/blog/research/publications/</loc>
   </url><url>
-    <loc>https://hyojunjung.github.io/blog/notes/sensory-note-210848b69b95806db3dae13e323e0866/</loc>
-    <lastmod>2025-06-13T00:00:00+00:00</lastmod>
+    <loc>https://hyojunjung.github.io/blog/research/</loc>
   </url><url>
-    <loc>https://hyojunjung.github.io/blog/posts/first-post/</loc>
-    <lastmod>2025-06-11T00:00:00+00:00</lastmod>
+    <loc>https://hyojunjung.github.io/blog/research/notes/</loc>
   </url><url>
-    <loc>https://hyojunjung.github.io/blog/posts/sensory-note-210848b69b95806db3dae13e323e0866/</loc>
+    <loc>https://hyojunjung.github.io/blog/tags/</loc>
   </url><url>
-    <loc>https://hyojunjung.github.io/blog/posts/sensory-note-210848b69b95806db3dae13e323e0866/untitled-210848b69b958043b6acd19ccd1fb4a3/@today-210848b69b9580e6b991e6610b862368/</loc>
+    <loc>https://hyojunjung.github.io/blog/teaching/</loc>
   </url><url>
-    <loc>https://hyojunjung.github.io/blog/posts/sensory-note-210848b69b95806db3dae13e323e0866/untitled-210848b69b958043b6acd19ccd1fb4a3/@yesterday-212848b69b9580a4a5cffe804a50db33/</loc>
+    <loc>https://hyojunjung.github.io/blog/thoughts/</loc>
   </url>
 </urlset>
