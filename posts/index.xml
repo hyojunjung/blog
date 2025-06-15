@@ -6,19 +6,12 @@
     <description>Recent content in Posts on Hyojun Jung</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://hyojunjung.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>First Post</title>
-      <link>https://hyojunjung.github.io/blog/posts/first-post/</link>
-      <pubDate>Sat, 14 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://hyojunjung.github.io/blog/posts/first-post/</guid>
-      <description>&lt;p&gt;이 글은 마음챙김에 관한 글입니다.&lt;/p&gt;</description>
-    </item>
     <item>
       <title>Second Post</title>
       <link>https://hyojunjung.github.io/blog/posts/second-post/</link>
-      <pubDate>Sat, 14 Jun 2025 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate>
       <guid>https://hyojunjung.github.io/blog/posts/second-post/</guid>
       <description>&lt;h1 id=&#34;이-글은-커피-루틴에-관한-글입니다&#34;&gt;이 글은 커피 루틴에 관한 글입니다.&lt;/h1&gt;
 &lt;hr&gt;
@@ -54,6 +47,211 @@
 
  D --&amp;gt; E
 &lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+    <item>
+      <title>third Post</title>
+      <link>https://hyojunjung.github.io/blog/posts/sensory-note-210848b69b95806db3dae13e323e0866/untitled-210848b69b958043b6acd19ccd1fb4a3/@friday-211848b69b958045bb7af4d71aa0ad63/</link>
+      <pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://hyojunjung.github.io/blog/posts/sensory-note-210848b69b95806db3dae13e323e0866/untitled-210848b69b958043b6acd19ccd1fb4a3/@friday-211848b69b958045bb7af4d71aa0ad63/</guid>
+      <description>&lt;h1 id=&#34;friday&#34;&gt;@Friday&lt;/h1&gt;
+&lt;p&gt;Date: June 13, 2025 6:28 AM&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://images.unsplash.com/photo-1603408209093-cd3c9af497d6?ixlib=rb-4.1.0&amp;q=85&amp;fm=jpg&amp;crop=entropy&amp;cs=srgb&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;오늘의-한-잔&#34;&gt;☕️오늘의 한 잔&lt;/h2&gt;
+&lt;p&gt;Ethiopia Ayla Mombe Washed Light Roast&lt;/p&gt;
+&lt;h2 id=&#34;향-맛-표현&#34;&gt;🌸향 맛 표현&lt;/h2&gt;
+&lt;p&gt;향은 뭔가 나무향같은 느낌이 들었고, 마치 히노끼 탕의 그 느낌이 떠올랐다. 히노끼탕을 열였을 때의 따뜻한 공기의 느낌. 맛은 자두를 먹는 느낌이 들었다. 잘 익은 자두의 달콤함과 부드러운 산미.&lt;/p&gt;
+&lt;h2 id=&#34;온도-질감&#34;&gt;🌡️온도 질감&lt;/h2&gt;
+&lt;p&gt;온도는 96도에 맞춰 내려서 딱 좋았고 물맛이 나는 가벼운 바디감이며 산미는 기존 에티오피아보다는 적었다.&lt;/p&gt;
+&lt;h2 id=&#34;지금-감정&#34;&gt;💭지금 감정&lt;/h2&gt;
+&lt;p&gt;토니 수유를 하고 시작한느 아침루틴은 참 기분좋고, 어제 감각 일기 셋업을 해놔서 기분도 좋다.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>First Post</title>
+      <link>https://hyojunjung.github.io/blog/posts/first-post/</link>
+      <pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://hyojunjung.github.io/blog/posts/first-post/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://balanced-viper-787.notion.site/210848b69b95806db3dae13e323e0866&#34;&gt;👉 노션 페이지 보기&lt;/a&gt;&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 1rem; justify-content: center;&#34;&gt;
+  &lt;div style=&#34;flex: 1; text-align: center;&#34;&gt;
+&lt;p&gt;🐦&lt;br&gt;&lt;a href=&#34;https://twitter.com&#34;&gt;Twitter&lt;/a&gt;&lt;/p&gt;
+ &lt;/div&gt;
+  &lt;div style=&#34;flex: 1; text-align: center;&#34;&gt;
+&lt;p&gt;🖥️&lt;br&gt;&lt;a href=&#34;https://github.com&#34;&gt;GitHub&lt;/a&gt;&lt;/p&gt;
+ &lt;/div&gt;
+  &lt;div style=&#34;flex: 1; text-align: center;&#34;&gt;
+&lt;p&gt;🎓&lt;br&gt;&lt;a href=&#34;https://udemy.com&#34;&gt;Udemy&lt;/a&gt;&lt;/p&gt;
+ &lt;/div&gt;
+&lt;/div&gt;
+&lt;h1 id=&#34;name-lastname&#34;&gt;Name Lastname&lt;/h1&gt;
+&lt;h1 id=&#34;data-scientist&#34;&gt;Data Scientist&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;My goal is to help companies analyze trends to make better business decisions. Data passionate, continuous learning and curious soul. Based on Madrid but available to work worldwide.&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;aside&gt;
+💼 [LinkedIn](https://www.linkedin.com/)
+&lt;/aside&gt;
+&lt;aside&gt;
+✉️ [contact@email.com](mailto:contact@email.com)
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;skills&#34;&gt;Skills&lt;/h2&gt;
+&lt;p&gt;💡 Analytical mind&lt;/p&gt;
+&lt;p&gt;💡 Strong math skills&lt;/p&gt;
+&lt;p&gt;💡 Problem-solving aptitude&lt;/p&gt;
+&lt;h2 id=&#34;technologies&#34;&gt;Technologies&lt;/h2&gt;
+&lt;p&gt;⚙️ SQL, R and Python&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://hyojunjung.github.io/blog/posts/sensory-note-210848b69b95806db3dae13e323e0866/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hyojunjung.github.io/blog/posts/sensory-note-210848b69b95806db3dae13e323e0866/</guid>
+      <description>&lt;h1 id=&#34;sensory-note&#34;&gt;SENSORY NOTE&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;SENSORY%20NOTE%20210848b69b95806db3dae13e323e0866/Untitled%20210848b69b958043b6acd19ccd1fb4a3.csv&#34;&gt;Untitled&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Screenshot 2025-06-12 at 7.22.16\u202fAM.png&#34; loading=&#34;lazy&#34; src=&#34;SENSORY%20NOTE%20210848b69b95806db3dae13e323e0866/Screenshot_2025-06-12_at_7.22.16_AM.png&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://hyojunjung.github.io/blog/posts/sensory-note-210848b69b95806db3dae13e323e0866/untitled-210848b69b958043b6acd19ccd1fb4a3/@today-210848b69b9580e6b991e6610b862368/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hyojunjung.github.io/blog/posts/sensory-note-210848b69b95806db3dae13e323e0866/untitled-210848b69b958043b6acd19ccd1fb4a3/@today-210848b69b9580e6b991e6610b862368/</guid>
+      <description>&lt;h1 id=&#34;today&#34;&gt;@Today&lt;/h1&gt;
+&lt;p&gt;Date: June 12, 2025 7:07 AM&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.notion.so&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;오늘의-한-잔&#34;&gt;☕️오늘의 한 잔&lt;/h2&gt;
+&lt;h2 id=&#34;향-맛-표현&#34;&gt;🌸향 맛 표현&lt;/h2&gt;
+&lt;h2 id=&#34;온도-질감&#34;&gt;🌡️온도 질감&lt;/h2&gt;
+&lt;h2 id=&#34;지금-감정&#34;&gt;💭지금 감정&lt;/h2&gt;
+&lt;h2 id=&#34;오늘의-의도&#34;&gt;🎯오늘의 의도&lt;/h2&gt;
+&lt;h2 id=&#34;감각-변화-흐름&#34;&gt;🚲감각 변화 흐름&lt;/h2&gt;
+&lt;h2 id=&#34;자유로운-연결&#34;&gt;📝자유로운 연결&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;strong&gt;주제 번호&lt;/strong&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;strong&gt;훈련 주제&lt;/strong&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;strong&gt;예시 표현&lt;/strong&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;1&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;시각 이미지로 향 표현&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;“유리창 너머로 비친 노란 햇살 같은 향”&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;메타포(비유) 사용하기&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;“혀 위에서 춤추는 봄바람 같다”&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;3&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;감정과 향 연결&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;“불안할 때 자몽향은 나를 붙잡아줬다”&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;4&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;시간 흐름에 따른 감각 묘사&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;“첫 모금은 서늘했지만, 끝에는 따뜻했다”&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;5&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;장소와 향 연결&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;“이 향은 낯선 바닷가 골목 같다”&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;6&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;기억과 연결하기&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;“어릴 적 외할머니 집의 볕든 마루”&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;7&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;색으로 향 묘사하기&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;“연보랏빛 향이 퍼지는 듯했다”&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;8&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;음악에 비유하기&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;“재즈 피아노처럼 부드럽고 산만했다”&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;9&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;질감 중심 표현&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;“혀에 감기는 실크 같은 부드러움”&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;10&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;온도와 감정 연결&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;“따뜻함이 입안에서 안심이 되었다”&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;11&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;계절과 연결하기&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;“초여름 저녁의 감귤향 같았다”&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;12&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;소리와 향 연결하기&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;“비 오는 소리와 잘 어울릴 향”&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;13&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;형용사 없이 묘사하기&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;“혀에 닿자마자 사라지고, 고요만 남았다”&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;14&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;동물에 비유하기&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;“느긋한 고양이의 체온 같은 커피”&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;15&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;움직임으로 표현하기&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;“혀를 타고 돌고 나서 가볍게 사라짐”&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;16&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;반응형 표현 (내 몸의 변화)&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;“마시고 나니 어깨가 풀리는 느낌”&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;17&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;공간 상상하기&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;“이 향이 가득 찬 방은 어떤 기분일까?”&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;18&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;‘없는 것’으로 표현하기&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;“쓴맛이 없고, 대신 공기처럼 가벼웠다”&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;19&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;내면 대화로 풀기&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;“이 커피는 나에게 말하듯 다가왔다: ‘괜찮아’”&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;20&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;다른 사람에게 설명하듯&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;“누군가에게 이 맛을 소개한다면 이렇게 말할 거야…”&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://hyojunjung.github.io/blog/posts/sensory-note-210848b69b95806db3dae13e323e0866/untitled-210848b69b958043b6acd19ccd1fb4a3/@yesterday-212848b69b9580a4a5cffe804a50db33/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hyojunjung.github.io/blog/posts/sensory-note-210848b69b95806db3dae13e323e0866/untitled-210848b69b958043b6acd19ccd1fb4a3/@yesterday-212848b69b9580a4a5cffe804a50db33/</guid>
+      <description>&lt;h1 id=&#34;yesterday&#34;&gt;@Yesterday&lt;/h1&gt;
+&lt;p&gt;Date: June 14, 2025 9:37 AM&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://images.unsplash.com/photo-1515127320803-6cffa067f881?ixlib=rb-4.1.0&amp;q=85&amp;fm=jpg&amp;crop=entropy&amp;cs=srgb&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;오늘의-한-잔&#34;&gt;☕️오늘의 한 잔&lt;/h2&gt;
+&lt;p&gt;탄자니아 워시드 라이트 로스팅&lt;/p&gt;
+&lt;h2 id=&#34;향-맛-표현&#34;&gt;🌸향 맛 표현&lt;/h2&gt;
+&lt;p&gt;버스를 기다리면서 마추친 여름비의 향이나고 맛있게 한입베어문 수박의 달달한 맛과 자두의 시큼한 맛&lt;/p&gt;
+&lt;h2 id=&#34;온도-질감&#34;&gt;🌡️온도 질감&lt;/h2&gt;
+&lt;p&gt;부드럽게 입에서 굴릴 수 있고 산뜻한 산미와 가벼운 바디감 그리고 아주 살짝 남아있는 탄닌감은 마치 호두를 씹고 난 후 혀끝에 남는 느낌 같음&lt;/p&gt;
+&lt;h2 id=&#34;지금-감정&#34;&gt;💭지금 감정&lt;/h2&gt;
+&lt;p&gt;푹 자고 일어나서 개운한 상태에 기분좋게 새로 산 탄자니아 원두를 마시는데 감각일기를 쓰니 기분이 좋다. 하려고 했던 걸 한다는게 이런 느낌인가 싶다. 동시에 하려고했던 걸 생각하다가 포레스트를 켜야함을 느껴서 뿌듯했다.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
