@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Projects on Hyojun Jung&#39;s Blog</title>
-    <link>https://hyojunjung.github.io/blog/research/projects/</link>
+    <link>http://localhost:1313/blog/research/projects/</link>
     <description>Recent content in Projects on Hyojun Jung&#39;s Blog</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 30 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://hyojunjung.github.io/blog/research/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/research/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Forecasting Tourism Demand with PVAR</title>
-      <link>https://hyojunjung.github.io/blog/research/projects/example/</link>
+      <link>http://localhost:1313/blog/research/projects/example/</link>
       <pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://hyojunjung.github.io/blog/research/projects/example/</guid>
+      <guid>http://localhost:1313/blog/research/projects/example/</guid>
       <description>&lt;p&gt;This research project uses &lt;strong&gt;Panel VAR models&lt;/strong&gt; to predict international tourist arrivals, incorporating macro indicators:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Google Trends, exchange rates, GDP per capita&lt;/li&gt;

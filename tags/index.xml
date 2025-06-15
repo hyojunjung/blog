@@ -2,115 +2,122 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Hyojun Jung&#39;s Blog</title>
-    <link>https://hyojunjung.github.io/blog/tags/</link>
+    <link>http://localhost:1313/blog/tags/</link>
     <description>Recent content in Tags on Hyojun Jung&#39;s Blog</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 15 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://hyojunjung.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Causal Inference</title>
-      <link>https://hyojunjung.github.io/blog/tags/causal-inference/</link>
+      <link>http://localhost:1313/blog/tags/causal-inference/</link>
       <pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://hyojunjung.github.io/blog/tags/causal-inference/</guid>
+      <guid>http://localhost:1313/blog/tags/causal-inference/</guid>
       <description></description>
     </item>
     <item>
       <title>Econometrics</title>
-      <link>https://hyojunjung.github.io/blog/tags/econometrics/</link>
+      <link>http://localhost:1313/blog/tags/econometrics/</link>
       <pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://hyojunjung.github.io/blog/tags/econometrics/</guid>
+      <guid>http://localhost:1313/blog/tags/econometrics/</guid>
       <description></description>
     </item>
     <item>
       <title>Panel Data</title>
-      <link>https://hyojunjung.github.io/blog/tags/panel-data/</link>
+      <link>http://localhost:1313/blog/tags/panel-data/</link>
       <pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://hyojunjung.github.io/blog/tags/panel-data/</guid>
+      <guid>http://localhost:1313/blog/tags/panel-data/</guid>
       <description></description>
     </item>
     <item>
       <title>Wooldridge</title>
-      <link>https://hyojunjung.github.io/blog/tags/wooldridge/</link>
+      <link>http://localhost:1313/blog/tags/wooldridge/</link>
       <pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://hyojunjung.github.io/blog/tags/wooldridge/</guid>
+      <guid>http://localhost:1313/blog/tags/wooldridge/</guid>
       <description></description>
     </item>
     <item>
       <title>Coffee</title>
-      <link>https://hyojunjung.github.io/blog/tags/coffee/</link>
+      <link>http://localhost:1313/blog/tags/coffee/</link>
       <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://hyojunjung.github.io/blog/tags/coffee/</guid>
+      <guid>http://localhost:1313/blog/tags/coffee/</guid>
       <description></description>
     </item>
     <item>
       <title>Mindfulness</title>
-      <link>https://hyojunjung.github.io/blog/tags/mindfulness/</link>
+      <link>http://localhost:1313/blog/tags/mindfulness/</link>
       <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://hyojunjung.github.io/blog/tags/mindfulness/</guid>
+      <guid>http://localhost:1313/blog/tags/mindfulness/</guid>
       <description></description>
     </item>
     <item>
       <title>Rituals</title>
-      <link>https://hyojunjung.github.io/blog/tags/rituals/</link>
+      <link>http://localhost:1313/blog/tags/rituals/</link>
       <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://hyojunjung.github.io/blog/tags/rituals/</guid>
+      <guid>http://localhost:1313/blog/tags/rituals/</guid>
       <description></description>
     </item>
     <item>
       <title>Forecasting</title>
-      <link>https://hyojunjung.github.io/blog/tags/forecasting/</link>
+      <link>http://localhost:1313/blog/tags/forecasting/</link>
       <pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://hyojunjung.github.io/blog/tags/forecasting/</guid>
+      <guid>http://localhost:1313/blog/tags/forecasting/</guid>
       <description></description>
     </item>
     <item>
       <title>Macroeconomics</title>
-      <link>https://hyojunjung.github.io/blog/tags/macroeconomics/</link>
+      <link>http://localhost:1313/blog/tags/macroeconomics/</link>
       <pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://hyojunjung.github.io/blog/tags/macroeconomics/</guid>
+      <guid>http://localhost:1313/blog/tags/macroeconomics/</guid>
       <description></description>
     </item>
     <item>
       <title>Panel VAR</title>
-      <link>https://hyojunjung.github.io/blog/tags/panel-var/</link>
+      <link>http://localhost:1313/blog/tags/panel-var/</link>
       <pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://hyojunjung.github.io/blog/tags/panel-var/</guid>
+      <guid>http://localhost:1313/blog/tags/panel-var/</guid>
       <description></description>
     </item>
     <item>
       <title>AI</title>
-      <link>https://hyojunjung.github.io/blog/tags/ai/</link>
+      <link>http://localhost:1313/blog/tags/ai/</link>
       <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://hyojunjung.github.io/blog/tags/ai/</guid>
+      <guid>http://localhost:1313/blog/tags/ai/</guid>
       <description></description>
     </item>
     <item>
       <title>Hospitality</title>
-      <link>https://hyojunjung.github.io/blog/tags/hospitality/</link>
+      <link>http://localhost:1313/blog/tags/hospitality/</link>
       <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://hyojunjung.github.io/blog/tags/hospitality/</guid>
+      <guid>http://localhost:1313/blog/tags/hospitality/</guid>
       <description></description>
     </item>
     <item>
       <title>Teaching</title>
-      <link>https://hyojunjung.github.io/blog/tags/teaching/</link>
+      <link>http://localhost:1313/blog/tags/teaching/</link>
       <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://hyojunjung.github.io/blog/tags/teaching/</guid>
+      <guid>http://localhost:1313/blog/tags/teaching/</guid>
       <description></description>
     </item>
     <item>
       <title>Behavioral Economics</title>
-      <link>https://hyojunjung.github.io/blog/tags/behavioral-economics/</link>
-      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://hyojunjung.github.io/blog/tags/behavioral-economics/</guid>
+      <link>http://localhost:1313/blog/tags/behavioral-economics/</link>
+      <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/tags/behavioral-economics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Publication</title>
+      <link>http://localhost:1313/blog/tags/publication/</link>
+      <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/tags/publication/</guid>
       <description></description>
     </item>
     <item>
       <title>Tourism</title>
-      <link>https://hyojunjung.github.io/blog/tags/tourism/</link>
-      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://hyojunjung.github.io/blog/tags/tourism/</guid>
+      <link>http://localhost:1313/blog/tags/tourism/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/tags/tourism/</guid>
       <description></description>
     </item>
   </channel>
