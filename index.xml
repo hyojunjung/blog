@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Welcome to Hyojun&#39;s Blog on Hyojun Jung&#39;s Blog</title>
-    <link>https://hyojunjung.github.io/blog/</link>
+    <link>http://localhost:1313/blog/</link>
     <description>Recent content in Welcome to Hyojun&#39;s Blog on Hyojun Jung&#39;s Blog</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 15 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://hyojunjung.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
-      <link>https://hyojunjung.github.io/blog/about/</link>
+      <link>http://localhost:1313/blog/about/</link>
       <pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://hyojunjung.github.io/blog/about/</guid>
+      <guid>http://localhost:1313/blog/about/</guid>
       <description>&lt;h1 id=&#34;hyojun-jung&#34;&gt;Hyojun Jung&lt;/h1&gt;
 &lt;h2 id=&#34;phd-student-in-hospitality--tourism-management&#34;&gt;Ph.D. Student in Hospitality &amp;amp; Tourism Management&lt;/h2&gt;
 &lt;blockquote&gt;
@@ -49,20 +49,86 @@
 &lt;p&gt;&lt;strong&gt;Virginia Tech | 2023 – Present&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Contact</title>
-      <link>https://hyojunjung.github.io/blog/contact/</link>
+      <title>Causal Inference and Panel Data</title>
+      <link>http://localhost:1313/blog/research/notes/example/</link>
       <pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://hyojunjung.github.io/blog/contact/</guid>
-      <description>&lt;p&gt;📬 &lt;strong&gt;Email&lt;/strong&gt;&lt;br&gt;
-&lt;a href=&#34;mailto:hyojunjung@vt.edu&#34;&gt;hyojunjung@vt.edu&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;🔗 &lt;strong&gt;LinkedIn&lt;/strong&gt;&lt;br&gt;
-&lt;a href=&#34;https://linkedin.com/in/hyojunjung&#34;&gt;linkedin.com/in/hyojunjung&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;📄 &lt;strong&gt;Download CV&lt;/strong&gt;&lt;br&gt;
-&lt;a href=&#34;https://hyojunjung.github.io/blog/files/cvmay27.pdf&#34;&gt;Download PDF&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;🌐 &lt;strong&gt;Website / Portfolio&lt;/strong&gt;&lt;br&gt;
-&lt;a href=&#34;https://hyojunjung.github.io/blog&#34;&gt;hyojunjung.github.io/blog&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;📍 &lt;strong&gt;Location&lt;/strong&gt;&lt;br&gt;
-Blacksburg, Virginia, USA&lt;/p&gt;</description>
+      <guid>http://localhost:1313/blog/research/notes/example/</guid>
+      <description>&lt;p&gt;This note summarizes key methods in &lt;strong&gt;causal inference using panel data&lt;/strong&gt;, including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed Effects (FE) and Random Effects (RE)&lt;/li&gt;
+&lt;li&gt;Difference-in-Differences (DiD)&lt;/li&gt;
+&lt;li&gt;Instrumental Variables (IV) in panel settings&lt;/li&gt;
+&lt;li&gt;Assumptions for identification&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;📖 Inspired by: Wooldridge (2010), Angrist &amp;amp; Pischke (2009)&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;📖 See &lt;a href=&#34;http://localhost:1313/blog/research/publications/&#34;&gt;related publication&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Panel Data: Advanced Concepts</title>
+      <link>http://localhost:1313/blog/research/notes/example2/</link>
+      <pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/research/notes/example2/</guid>
+      <description>&lt;p&gt;This note explores &lt;strong&gt;advanced topics in panel data econometrics&lt;/strong&gt;, especially when applying causal inference logic.&lt;/p&gt;
+&lt;h2 id=&#34;key-topics-covered&#34;&gt;Key Topics Covered:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;💼 &lt;strong&gt;Two-way Fixed Effects (TWFE)&lt;/strong&gt;: When both entity and time effects are important&lt;/li&gt;
+&lt;li&gt;⚖️ &lt;strong&gt;Assumptions of DiD in Staggered Treatment&lt;/strong&gt;: Parallel trends, heterogeneous treatment&lt;/li&gt;
+&lt;li&gt;🔄 &lt;strong&gt;Event Study Designs&lt;/strong&gt;: Pre-trend testing and dynamic treatment effects&lt;/li&gt;
+&lt;li&gt;🧪 &lt;strong&gt;Instrumental Variables in Panel Setting&lt;/strong&gt;: Controlling for endogeneity across time&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Based on: Wooldridge (2010), Callaway &amp;amp; Sant’Anna (2021), Imai &amp;amp; Kim (2021)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Why Mindful Coffee Matters</title>
+      <link>http://localhost:1313/blog/thoughts/example/</link>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/thoughts/example/</guid>
+      <description>&lt;p&gt;Savoring a cup of hand-dripped coffee in the morning is more than a routine — it’s a ritual that grounds you.&lt;br&gt;
+Mindfulness isn’t about meditation only — it lives in everyday rituals.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“To take time is to make time meaningful.” ☕🧘&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;🔗 See also my &lt;a href=&#34;http://localhost:1313/blog/research/notes/example/&#34;&gt;Sensory Notes&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Forecasting Tourism Demand with PVAR</title>
+      <link>http://localhost:1313/blog/research/projects/example/</link>
+      <pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/research/projects/example/</guid>
+      <description>&lt;p&gt;This research project uses &lt;strong&gt;Panel VAR models&lt;/strong&gt; to predict international tourist arrivals, incorporating macro indicators:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Google Trends, exchange rates, GDP per capita&lt;/li&gt;
+&lt;li&gt;Country–quarter panel (2007–2023)&lt;/li&gt;
+&lt;li&gt;Evaluated using RMSE against 2024 actuals&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Technology in Hotel Operations</title>
+      <link>http://localhost:1313/blog/teaching/fall2025/example/</link>
+      <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/teaching/fall2025/example/</guid>
+      <description>&lt;p&gt;This undergraduate lecture introduces the role of &lt;strong&gt;Generative AI, automation, and digital tools&lt;/strong&gt; in hotel operations.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Topics covered:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ChatGPT as a customer service agent&lt;/li&gt;
+&lt;li&gt;PMS and IoT integration in hotels&lt;/li&gt;
+&lt;li&gt;Active learning activity: AI trip planning simulation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;📝 Materials available upon request.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Loss Aversion in International Tourist Spending</title>
+      <link>http://localhost:1313/blog/research/publications/example/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/research/publications/example/</guid>
+      <description>&lt;p&gt;This paper examines how tourists adjust their spending based on &lt;strong&gt;relative satisfaction&lt;/strong&gt;, identifying patterns of &lt;strong&gt;loss aversion&lt;/strong&gt; across different travel purposes.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Published in &lt;em&gt;Tourism Economics&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Used a pseudo-panel dataset (2007–2023)&lt;/li&gt;
+&lt;li&gt;Applied fixed effects with Driscoll–Kraay standard errors&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;📄 &lt;a href=&#34;http://localhost:1313/blog/files/tourism_loss_aversion.pdf&#34;&gt;Download Full Paper (PDF)&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

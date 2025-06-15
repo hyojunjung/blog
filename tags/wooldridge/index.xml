@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Wooldridge on Hyojun Jung&#39;s Blog</title>
+    <link>http://localhost:1313/blog/tags/wooldridge/</link>
+    <description>Recent content in Wooldridge on Hyojun Jung&#39;s Blog</description>
+    <generator>Hugo -- 0.147.8</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 15 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/tags/wooldridge/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Panel Data: Advanced Concepts</title>
+      <link>http://localhost:1313/blog/research/notes/example2/</link>
+      <pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/research/notes/example2/</guid>
+      <description>&lt;p&gt;This note explores &lt;strong&gt;advanced topics in panel data econometrics&lt;/strong&gt;, especially when applying causal inference logic.&lt;/p&gt;
+&lt;h2 id=&#34;key-topics-covered&#34;&gt;Key Topics Covered:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;💼 &lt;strong&gt;Two-way Fixed Effects (TWFE)&lt;/strong&gt;: When both entity and time effects are important&lt;/li&gt;
+&lt;li&gt;⚖️ &lt;strong&gt;Assumptions of DiD in Staggered Treatment&lt;/strong&gt;: Parallel trends, heterogeneous treatment&lt;/li&gt;
+&lt;li&gt;🔄 &lt;strong&gt;Event Study Designs&lt;/strong&gt;: Pre-trend testing and dynamic treatment effects&lt;/li&gt;
+&lt;li&gt;🧪 &lt;strong&gt;Instrumental Variables in Panel Setting&lt;/strong&gt;: Controlling for endogeneity across time&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Based on: Wooldridge (2010), Callaway &amp;amp; Sant’Anna (2021), Imai &amp;amp; Kim (2021)&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
