@@ -1,0 +1,47 @@
+baseURL = "https://hyojunjung.github.io/"
+languageCode = "en-us"
+title = "Hyojun Jung"
+theme = "PaperMod"
+
+[pagination]
+  pagerSize = 10
+
+[taxonomies]
+  tag = "tags"
+
+[params]
+  author = "Hyojun Jung"
+  description = "PhD Candidate in Hospitality & Tourism Management at Virginia Tech"
+  showReadingTime = false
+  ShowBreadCrumbs = false
+  ShowPostNavLinks = false
+  ShowCodeCopyButtons = false
+  ShowShareButtons = false
+  ShowRssButtonInSectionTermList = false
+  mainSections = []
+  email = "hyojunjung@vt.edu"
+  customCSS = ["css/custom.css"]
+  hideFooter = false
+  disableSpecial1stPost = true
+
+  # homeInfoParams disabled - using custom HTML in _index.md instead
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 1
+
+[[menu.main]]
+  name = "Research"
+  url = "/research/"
+  weight = 2
+
+[[menu.main]]
+  name = "CV"
+  url = "/files/cv_hyojunjung_mar26.pdf"
+  weight = 3

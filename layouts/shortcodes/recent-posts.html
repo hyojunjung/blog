@@ -1,0 +1,8 @@
+<ul>
+  {{ $filtered := where .Site.RegularPages "Section" "in" (slice "research" "teaching" "thoughts") }}
+  {{ range first 3 (sort $filtered "Date" "desc") }}
+    <li>
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a> <small>{{ .Date.Format "2006-01-02" }}</small>
+    </li>
+  {{ end }}
+</ul>
